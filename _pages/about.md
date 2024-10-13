@@ -24,8 +24,9 @@ At Northeastern University, I'm fortunate to work as a member of Spatial Interne
 
 # 🔥 News
 
-<font color='red'>2025 Spring/Fall PhD Positions Available here! If you are interested, please feel free to reach out to me or Professor Mallesham Dasari! </font>
+<font color='red'>2025 Spring/Fall PhD positions available here! If you are interested, please feel free to reach out to me or Professor Mallesham Dasari! </font>
 
+- *2024.10*: &nbsp;😊 I submitted a paper to [2025 HotMobile](http://www.hotmobile.org/2025/)!
 - *2024.09*: &nbsp;😎 I submitted my first conference paper to [2025 ACM MMSys](https://2025.acmmmsys.org/)!
 - *2024.08*: &nbsp;🎉 I began my exciting PhD journey at Northeastern University under the guidance of the wonderful Assistant Professor Mallesham Dasari!
 
@@ -34,6 +35,21 @@ At Northeastern University, I'm fortunate to work as a member of Spatial Interne
 I am going to explore the future of immersive media and do something cool to shape the future of communication! My research interest mainly focus on AR/VR, 3D Mesh/Point Cloud compression, and spatial/volumetric videos streaming. I am also interested in AI-based 3D content compression and streaming technologies.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HotMobile 2025</div><img src='images/HotMobile2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="font-size: 16px; font-weight: bold;">
+            Spatial Video Streaming on XR Headsets (Submitted)
+    </span>
+
+**Guodong Chen**, Sizhe Wang, Jacob Chakareski, Dimitrios Koutsonikolas, Mallesham Dasari. 
+
+The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSys 2025</div><img src='images/TVMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,5 +78,5 @@ I did Mathematical Olympiad in high school.
 
 
 
-<p style="text-align:right;font-size:small;" >Last updated: Oct. 11, 2024</p>
+<p style="text-align:right;font-size:small;" >Last updated: Oct. 13, 2024</p>
 
