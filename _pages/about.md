@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a PhD student in [the Department of Electrical and Computer Engineering](https://ece.northeastern.edu/) at Northeastern University. My primary research interests include Augmented and Virtual Reality (AR/VR) Systems, Computer Networks, Wireless Sensing and Communications, Mobile and Wearable Computing. If you are seeking any form of **academic cooperation**, please feel free to email me at [chen.guod@northeastern.edu](mailto:chen.guod@northeastern.edu).
 
-At Northeastern University, I'm fortunate to work as a member of Spatial Internet Research Group (SINRG) led by Professor [Mallesham Dasari](https://mallesham.com/). Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_15_24.pdf).
+At Northeastern University, I'm fortunate to work as a member of Spatial Internet Research Group (SINRG) led by Professor [Mallesham Dasari](https://mallesham.com/). 
+
+Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_15_24.pdf).
 
  <!--Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_12.pdf). -->
 
