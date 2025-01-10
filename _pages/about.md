@@ -28,8 +28,8 @@ Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_
 
 <font color='red'>2025 Fall PhD/Postdoc positions available here! If you are interested, please feel free to reach out to me or Professor Mallesham Dasari! </font>
 
-- *2025.01*:  🎉 My submission to [2025 ACM MMSys](https://2025.acmmmsys.org/) has been accepted! I'll be heading to Stellenbosch, South Africa, in March 2025!
-- *2024.12*:  🎉 My submission to [2025 HotMobile](http://www.hotmobile.org/2025/) has been accepted. I'll be heading to Palm Springs, California, in February 2025!
+- *2025.01*: &nbsp;🎉 My submission to [2025 ACM MMSys](https://2025.acmmmsys.org/) has been accepted! I'll be heading to Stellenbosch, South Africa, in March 2025!
+- *2024.12*: &nbsp;🎉 My submission to [2025 HotMobile](http://www.hotmobile.org/2025/) has been accepted. I'll be heading to Palm Springs, California, in February 2025!
 - *2024.10*: &nbsp;😊 I submitted a paper to [2025 HotMobile](http://www.hotmobile.org/2025/)!
 - *2024.09*: &nbsp;😎 I submitted my first conference paper to [2025 ACM MMSys](https://2025.acmmmsys.org/)!
 - *2024.08*: &nbsp;🎉 I began my exciting PhD journey at Northeastern University under the guidance of the wonderful Assistant Professor Mallesham Dasari!
