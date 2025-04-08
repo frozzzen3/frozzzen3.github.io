@@ -28,6 +28,7 @@ Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_01_
 
 <font color='red'>2025 Fall PhD/Postdoc positions available here! If you are interested, please feel free to reach out to me or Professor Mallesham Dasari! </font>
 
+- *2025.04*: &nbsp;🙌 Our paper: [TVMC: Time-Varying Mesh Compression Using Volume-Tracked Reference Meshes](https://dl.acm.org/doi/abs/10.1145/3712676.3714440) has been honored with the **Best Reproducible Paper Award** at [2025 MMsys](https://2025.acmmmsys.org/)! South Africa is amazing!
 - *2025.02*: &nbsp;🤞 Our demo: [Remote Human-Robot Collaboration in XR](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf) has been honored with the **Best Demo Award** at [2025 HotMobile](https://2025.acmmmsys.org/)!
 - *2025.01*: &nbsp;🎉 My submission to [2025 ACM MMSys](https://2025.acmmmsys.org/) has been accepted! I'll be heading to Stellenbosch, South Africa, in March 2025!
 - *2024.12*: &nbsp;🎉 My submission to [2025 HotMobile](http://www.hotmobile.org/2025/) has been accepted. I'll be heading to Palm Springs, California, in February 2025!
@@ -51,7 +52,7 @@ I am going to explore the future of immersive media and do something cool to sha
 
 The 16th ACM Multimedia Systems Conference (MMSys)
 
-[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/TVMC?style=social&label=Code Stars)](https://github.com/SINRG-Lab/TVMC) <span class='show_paper_citations' data=''></span>![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/TVMC?style=social&label=Code Stars)](https://github.com/SINRG-Lab/TVMC) <span class='show_paper_citations' data=''></span>![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue)![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
 </div>
 </div>
