@@ -52,7 +52,7 @@ I am going to explore the future of immersive media and do something cool to sha
 
 The 16th ACM Multimedia Systems Conference (MMSys)
 
-[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/TVMC?style=social&label=Code Stars)](https://github.com/SINRG-Lab/TVMC) <span class='show_paper_citations' data=''></span>![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue)![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/TVMC?style=social&label=Code Stars)](https://github.com/SINRG-Lab/TVMC) <span class='show_paper_citations' data=''></span>![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue) ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
 </div>
 </div>
