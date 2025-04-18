@@ -17,3 +17,6 @@ main:
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
+
+  - title: "allnews"
+    url: "/allnews"
