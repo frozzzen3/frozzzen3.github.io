@@ -20,7 +20,7 @@ I am a PhD student in [the Department of Electrical and Computer Engineering](ht
 
 At Northeastern University, I'm fortunate to work as a member of Spatial Internet Research Group (SINRG) led by Professor [Mallesham Dasari](https://mallesham.com/). 
 
-Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_01_10_25.pdf).
+Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_04_22_2025.pdf).
 
  <!--Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_12.pdf). -->
 
