@@ -20,7 +20,7 @@ I am a PhD student in [the Department of Electrical and Computer Engineering](ht
 
 At Northeastern University, I'm fortunate to work as a member of Spatial Internet Research Group (SINRG) led by Professor [Mallesham Dasari](https://mallesham.com/). 
 
-Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_01_10_25.pdf).
+Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_04_22_2025.pdf).
 
  <!--Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_12.pdf). -->
 
@@ -64,7 +64,7 @@ The 16th ACM Multimedia Systems Conference (MMSys)
 
 
 
-**Guodong Chen**, Sizhe Wang, Jacob Chakareski, Dimitrios Koutsonikolas, Mallesham Dasari. 
+**Guodong Chen\***, Sizhe Wang\*, Jacob Chakareski, Dimitrios Koutsonikolas, Mallesham Dasari. 
 
 The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile)
 
@@ -75,7 +75,7 @@ The 26th International Workshop on Mobile Computing Systems and Applications (Ho
 
 ## 🎠Demo
 
-- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Remote Human-Robot Collaboration in XR](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf), Yang Zhewen, **Guodong Chen**, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Remote Human-Robot Collaboration in XR](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf), Yang Zhewen\*, **Guodong Chen\***, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
 # 📖 Education
 
