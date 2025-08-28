@@ -25,15 +25,14 @@ Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_01_
  <!--Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_12.pdf). -->
 
 # 🔥 News
-
-<font color='red'>2025 Fall PhD/Postdoc positions available here! If you are interested, please feel free to reach out to me or Professor Mallesham Dasari! </font>
-
+- *2025.08*: &nbsp;📀 Starting my first Research Internship at **Dolby** this September (through December 2025), focusing on Volumetric Video.
+🎮 New map unlocked: Atalanta!
+- *2025.07*: &nbsp;🎉 Our paper: [SVD: Spatial Video Dataset](https://arxiv.org/abs/2506.06037) has been accepted to the [2025 ACM MM](https://acmmm2025.org/) Dataset Track!
 - *2025.04*: &nbsp;🙌 Our paper: [TVMC: Time-Varying Mesh Compression Using Volume-Tracked Reference Meshes](https://dl.acm.org/doi/abs/10.1145/3712676.3714440) has been honored with the **Best Reproducible Paper Award** at [2025 MMsys](https://2025.acmmmsys.org/)! South Africa is amazing!
 - *2025.02*: &nbsp;🤞 Our demo: [Remote Human-Robot Collaboration in XR](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf) has been honored with the **Best Demo Award** at [2025 HotMobile](https://2025.acmmmsys.org/)!
 - *2025.01*: &nbsp;🎉 My submission to [2025 ACM MMSys](https://2025.acmmmsys.org/) has been accepted! I'll be heading to Stellenbosch, South Africa, in March 2025!
 - *2024.12*: &nbsp;🎉 My submission to [2025 HotMobile](http://www.hotmobile.org/2025/) has been accepted. I'll be heading to Palm Springs, California, in February 2025!
-- *2024.09*: &nbsp;😎 I submitted my first conference paper to [2025 ACM MMSys](https://2025.acmmmsys.org/)!
-- *2024.08*: &nbsp;🎉 I began my exciting PhD journey at Northeastern University under the guidance of the wonderful Assistant Professor Mallesham Dasari!
+- *2024.08*: &nbsp;😊 I began my exciting PhD journey at Northeastern University under the guidance of the wonderful Assistant Professor Mallesham Dasari!
 
 # 💡 Research
 
@@ -92,5 +91,5 @@ I did Mathematical Olympiad in high school.
 
 
 
-<p style="text-align:right;font-size:small;" >Last updated: Mar. 26, 2025</p>
+<p style="text-align:right;font-size:small;" >Last updated: Aug. 28, 2025</p>
 
