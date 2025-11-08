@@ -77,6 +77,10 @@ The 26th International Workshop on Mobile Computing Systems and Applications (Ho
 
 - ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Remote Human-Robot Collaboration in XR](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf), Yang Zhewen\*, **Guodong Chen\***, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
+## 💿Dataset
+
+- ![ACM MM 2025](https://img.shields.io/badge/ACM_MM-2025-blue) [SVD: Spatial Video Dataset](https://dl.acm.org/doi/abs/10.1145/3746027.3758246), Izadimehr, MohammadHossein, Milad Ghanbari, **Guodong Chen**, Wei Zhou, Xiaoshuai Hao, Mallesham Dasari, Christian Timmerer, and Hadi Amirpour. *In Proceedings of the 33rd ACM International Conference on Multimedia*, pp. 12988-12994. 2025.
+
 # 📖 Education
 
 - *2024.09 - now*, PhD student, Northeastern University, US
@@ -91,5 +95,5 @@ I did Mathematical Olympiad in high school.
 
 
 
-<p style="text-align:right;font-size:small;" >Last updated: Aug. 28, 2025</p>
+<p style="text-align:right;font-size:small;" >Last updated: Nov. 07, 2025</p>
 
