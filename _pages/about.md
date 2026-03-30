@@ -20,7 +20,7 @@ I am a PhD student in [the Department of Electrical and Computer Engineering](ht
 
 At Northeastern University, I'm fortunate to work as a member of Spatial Internet Research Group (SINRG) led by Professor [Mallesham Dasari](https://mallesham.com/). 
 
-Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_2026_03_28_v2.pdf).
+Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_2026_03_30.pdf).
 
  <!--Click here to view my [CV](https://frozzzen3.github.io/files/Guodong_Chen_CV_10_12.pdf). -->
 
@@ -41,6 +41,21 @@ I am going to explore the future of immersive media and do something cool to sha
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2026</div><img src='images/TSMC_SIGGRAPH_2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="font-size: 16px; font-weight: bold;">
+            TSMC: Time-varying Scene Mesh Compression
+    </span>
+
+
+**Guodong Chen**, Libor Váša, Amrita Mazumdar, and Mallesham Dasari. 
+
+The Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers (SIGGRAPH). 2026.
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MMSys 2025</div><img src='images/TVMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size: 16px; font-weight: bold;">
@@ -48,39 +63,50 @@ I am going to explore the future of immersive media and do something cool to sha
     </span>
 
 
-**Guodong Chen**, Filip Hácha, Libor Váša, Mallesham Dasari. 
+**Guodong Chen**, Filip Hácha, Libor Váša, and Mallesham Dasari. 
 
 The 16th ACM Multimedia Systems Conference (MMSys)
 
-[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/TVMC?style=social&label=Code Stars)](https://github.com/SINRG-Lab/TVMC) <span class='show_paper_citations' data=''></span>![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue) ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue) ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HotMobile 2025</div><img src='images/HotMobile2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/N4MC_arXiv_2026.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size: 16px; font-weight: bold;">
-            Spatial Video Streaming on XR Headsets
+            N4MC: Neural 4D Mesh Compression
     </span>
 
 
 
-**Guodong Chen\***, Sizhe Wang\*, Jacob Chakareski, Dimitrios Koutsonikolas, Mallesham Dasari. 
+**Guodong Chen**, Huanshuo Dong, Mallesham Dasari. 
 
-The 26th International Workshop on Mobile Computing Systems and Applications (HotMobile)
+arXiv 2026
 
-![Presenter](https://img.shields.io/badge/Presenter-✅-while)
 
 </div>
 </div>
 
-## 🎠Demo
+## Conference
+- ![MMSys 2026](https://img.shields.io/badge/MMSys-2026-blue)
+ LMG: Efficient Streaming of Layered Mesh–Gaussian 3D Scenes. Yuan-Chun Sun, **Guodong Chen**, Sam Ziaie Kondori, Mallesham Dasari, and Cheng-Hsin Hsu. In *Proceedings of the 17th ACM Multimedia Systems Conference (MMSys)*. 2026.
 
-- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Remote Human-Robot Collaboration in XR](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf), Yang Zhewen\*, **Guodong Chen\***, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+## Workshop & Demo
+- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Spatial Video Streaming on XR Headsets.](https://dl.acm.org/doi/abs/10.1145/3708468.3711878) **Guodong Chen\***, Sizhe Wang\*, Jacob Chakareski, Dimitrios Koutsonikolas, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 115-120. 2025. ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
-## 💿Dataset
+- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Remote Human-Robot Collaboration in XR.](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf) Yang Zhewen\*, **Guodong Chen\***, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
-- ![ACM MM 2025](https://img.shields.io/badge/ACM_MM-2025-blue) [SVD: Spatial Video Dataset](https://dl.acm.org/doi/abs/10.1145/3746027.3758246), Izadimehr, MohammadHossein, Milad Ghanbari, **Guodong Chen**, Wei Zhou, Xiaoshuai Hao, Mallesham Dasari, Christian Timmerer, and Hadi Amirpour. *In Proceedings of the 33rd ACM International Conference on Multimedia*, pp. 12988-12994. 2025.
+## Dataset
+
+- ![ACM MM 2025](https://img.shields.io/badge/ACM_MM-2025-blue) [SVD: Spatial Video Dataset.](https://dl.acm.org/doi/abs/10.1145/3746027.3758246) Izadimehr, MohammadHossein, Milad Ghanbari, **Guodong Chen**, Wei Zhou, Xiaoshuai Hao, Mallesham Dasari, Christian Timmerer, and Hadi Amirpour. *In Proceedings of the 33rd ACM International Conference on Multimedia*, pp. 12988-12994. 2025.
+
+# 🎠 Honors & Awards
+
+- *2025*, Best Reproducible Paper Award, ACM Multimedia Systems Conference (MMSys)
+- *2025*, Best Demo Award, ACM HotMobile
+- *2025*, ACM Travel Grant, ACM Multimedia Systems Conference (MMSys)
+- *2025*, ACM Travel Grant, ACM HotMobile
 
 # 📖 Education
 
@@ -96,5 +122,5 @@ I did Mathematical Olympiad in high school.
 
 
 
-<p style="text-align:right;font-size:small;" >Last updated: Mar. 28, 2026</p>
+<p style="text-align:right;font-size:small;" >Last updated: Mar. 30, 2026</p>
 
