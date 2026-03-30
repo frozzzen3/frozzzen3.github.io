@@ -90,16 +90,16 @@ arXiv 2026
 
 ## Conference
 - ![MMSys 2026](https://img.shields.io/badge/MMSys-2026-blue)
- LMG: Efficient Streaming of Layered Mesh–Gaussian 3D Scenes. Yuan-Chun Sun, **Guodong Chen**, Sam Ziaie Kondori, Mallesham Dasari, and Cheng-Hsin Hsu. In *Proceedings of the 17th ACM Multimedia Systems Conference (MMSys)*. 2026.
+ *LMG: Efficient Streaming of Layered Mesh–Gaussian 3D Scenes.* Yuan-Chun Sun, **Guodong Chen**, Sam Ziaie Kondori, Mallesham Dasari, and Cheng-Hsin Hsu. In *Proceedings of the 17th ACM Multimedia Systems Conference (MMSys)*. 2026.
 
 ## Workshop & Demo
-- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Spatial Video Streaming on XR Headsets.](https://dl.acm.org/doi/abs/10.1145/3708468.3711878) **Guodong Chen\***, Sizhe Wang\*, Jacob Chakareski, Dimitrios Koutsonikolas, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 115-120. 2025. ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [*Spatial Video Streaming on XR Headsets.*](https://dl.acm.org/doi/abs/10.1145/3708468.3711878) **Guodong Chen\***, Sizhe Wang\*, Jacob Chakareski, Dimitrios Koutsonikolas, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 115-120. 2025. ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
-- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [Remote Human-Robot Collaboration in XR.](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf) Yang Zhewen\*, **Guodong Chen\***, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
+- ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [*Remote Human-Robot Collaboration in XR.*](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf) Yang Zhewen\*, **Guodong Chen\***, Mayank Chadha, Barath Balamurugan, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 131-131. 2025. ![Static Badge](https://img.shields.io/badge/Best%20Demo%20Award-blue)&nbsp;[![Static Badge](https://img.shields.io/badge/Demo%20Video%20Link-8A2BE2)](https://youtu.be/7PKZyjSJMXk)&nbsp;![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
 ## Dataset
 
-- ![ACM MM 2025](https://img.shields.io/badge/ACM_MM-2025-blue) [SVD: Spatial Video Dataset.](https://dl.acm.org/doi/abs/10.1145/3746027.3758246) Izadimehr, MohammadHossein, Milad Ghanbari, **Guodong Chen**, Wei Zhou, Xiaoshuai Hao, Mallesham Dasari, Christian Timmerer, and Hadi Amirpour. *In Proceedings of the 33rd ACM International Conference on Multimedia*, pp. 12988-12994. 2025.
+- ![ACM MM 2025](https://img.shields.io/badge/ACM_MM-2025-blue) [*SVD: Spatial Video Dataset.*](https://dl.acm.org/doi/abs/10.1145/3746027.3758246) Izadimehr, MohammadHossein, Milad Ghanbari, **Guodong Chen**, Wei Zhou, Xiaoshuai Hao, Mallesham Dasari, Christian Timmerer, and Hadi Amirpour. *In Proceedings of the 33rd ACM International Conference on Multimedia*, pp. 12988-12994. 2025.
 
 # 🎠 Honors & Awards
 
