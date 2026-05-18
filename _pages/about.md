@@ -52,6 +52,9 @@ I am going to explore the future of immersive media and do something cool to sha
 
 The Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers (SIGGRAPH). 2026.
 
+[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/TSMC?style=social&label=Code Stars)](https://github.com/SINRG-Lab/TSMC) [![Static Badge](https://img.shields.io/badge/Project%20Webpage-white?style=flat&link=https%3A%2F%2Ffrozzzen3.github.io%2FTSMC%2F)](https://frozzzen3.github.io/TSMC/)
+
+
 
 </div>
 </div>
@@ -66,6 +69,8 @@ The Special Interest Group on Computer Graphics and Interactive Techniques Confe
 **Guodong Chen**, Filip Hácha, Libor Váša, and Mallesham Dasari. 
 
 The 16th ACM Multimedia Systems Conference (MMSys)
+
+[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/Open4D?style=social&label=Code Stars)](https://github.com/SINRG-Lab/Open4D) <span class='show_paper_citations' data=''></span>
 
 ![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue) ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
@@ -90,7 +95,7 @@ arXiv 2026
 
 ## Conference
 - ![MMSys 2026](https://img.shields.io/badge/MMSys-2026-blue)
- *LMG: Efficient Streaming of Layered Mesh–Gaussian 3D Scenes.* Yuan-Chun Sun, **Guodong Chen**, Sam Ziaie Kondori, Mallesham Dasari, and Cheng-Hsin Hsu. In *Proceedings of the 17th ACM Multimedia Systems Conference (MMSys)*. 2026.
+ [*LMG: Efficient Streaming of Layered Mesh–Gaussian 3D Scenes.*](https://dl.acm.org/doi/10.1145/3793853.3795764) Yuan-Chun Sun, **Guodong Chen**, Sam Ziaie Kondori, Mallesham Dasari, and Cheng-Hsin Hsu. In *Proceedings of the 17th ACM Multimedia Systems Conference (MMSys)*. 2026.
 
 ## Workshop & Demo
 - ![HotMobile 2025](https://img.shields.io/badge/HotMobile-2025-blue) [*Spatial Video Streaming on XR Headsets.*](https://dl.acm.org/doi/abs/10.1145/3708468.3711878) **Guodong Chen\***, Sizhe Wang\*, Jacob Chakareski, Dimitrios Koutsonikolas, and Mallesham Dasari. In *Proceedings of the 26th International Workshop on Mobile Computing Systems and Applications*, pp. 115-120. 2025. ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
@@ -122,5 +127,4 @@ I did Mathematical Olympiad in high school.
 
 
 
-<p style="text-align:right;font-size:small;" >Last updated: Mar. 30, 2026</p>
-
+<p style="text-align:right;font-size:small;" >Last updated: May. 18, 2026</p>
