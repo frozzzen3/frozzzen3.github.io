@@ -70,7 +70,7 @@ The Special Interest Group on Computer Graphics and Interactive Techniques Confe
 
 The 16th ACM Multimedia Systems Conference (MMSys)
 
-[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/Open4D?style=social&label=Code Stars)](https://github.com/SINRG-Lab/Open4D) <span class='show_paper_citations' data=''></span>
+[![Code Stars](https://img.shields.io/github/stars/SINRG-Lab/Open4D?style=social&label=Code Stars)](https://github.com/open4dfoundation/Open4D) <span class='show_paper_citations' data=''></span>
 
 ![Static Badge](https://img.shields.io/badge/Best%20Reproducible%20Paper%20Award-blue) ![Presenter](https://img.shields.io/badge/Presenter-✅-while  )
 
