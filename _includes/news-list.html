@@ -1,0 +1,9 @@
+{% assign news_items = site.data.news %}
+{% if include.homepage %}
+  {% assign news_items = news_items | where: 'homepage', true %}
+{% endif %}
+<ul class="news-list">
+{% for item in news_items %}
+  <li><em>{{ item.date }}</em>: &nbsp;{{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+{% endfor %}
+</ul>

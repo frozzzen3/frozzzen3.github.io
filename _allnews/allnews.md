@@ -1,12 +1,15 @@
 ---
-permalink: /allnews
+permalink: /news/
 title: "All news"
 excerpt: ""
 author_profile: true
-author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /allnews
+  - /allnews/
 ---
 
-hi
+# 🔥 All News
+
+<a href="{{ '/#-news' | relative_url }}" target="_self">Back to homepage</a>
+
+{% include news-list.html %}

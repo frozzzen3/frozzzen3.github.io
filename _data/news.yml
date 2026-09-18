@@ -1,0 +1,46 @@
+# Set homepage: true to feature an item on the homepage; false (or omitted) keeps it in the archive only.
+# Items appear in the order listed here. The archive always shows every item.
+- date: "2026.09"
+  homepage: true
+  content: >-
+    🎉 Our paper: *CapGaze: Capacitive Sensing-based Eye Tracking on Smart Glasses* has been accepted to [SenSys 2027](https://sensys.acm.org/2027/index.html)!
+
+- date: "2026.06"
+  homepage: true
+  content: >-
+    🎉 Our open-source project: [Open4D](https://open4dfoundation.github.io/) has been awarded a **$300K NSF grant**. [More info!](https://coe.northeastern.edu/news/standardizing-spatial-data-models-and-workflows-to-accelerate-innovation-in-robotics-and-ai/)
+
+- date: "2026.03"
+  homepage: true
+  content: >-
+    🎉 Our paper: [*TSMC: Time-varying 4D Scene Mesh Compression*](https://dl.acm.org/doi/10.1145/3799902.3811079) has been accepted to the [SIGGRAPH 2026](https://s2026.siggraph.org/)!
+
+- date: "2026.02"
+  homepage: false
+  content: >-
+    🎉 Our paper: [*LMG: Efficient Streaming of Layered Mesh–Gaussian 3D Scenes*](https://dl.acm.org/doi/10.1145/3793853.3795764) has been accepted to the [MMsys 2026](https://2026.acmmmsys.org/)!
+
+- date: "2025.08"
+  homepage: true
+  content: >-
+    📀 Starting my first Research Internship at **Dolby** this September (through December 2025), focusing on Volumetric Video. Base: Atalanta.
+
+- date: "2025.07"
+  homepage: false
+  content: >-
+    🎉 Our paper: [*SVD: Spatial Video Dataset*](https://arxiv.org/abs/2506.06037) has been accepted to the [ACM MM 2025](https://acmmm2025.org/) Dataset Track!
+
+- date: "2025.04"
+  homepage: true
+  content: >-
+    🙌 Our paper: [*TVMC: Time-Varying Mesh Compression Using Volume-Tracked Reference Meshes*](https://dl.acm.org/doi/abs/10.1145/3712676.3714440) has been honored with the **Best Reproducible Paper Award** at [MMsys 2025](https://2025.acmmmsys.org/)! South Africa is amazing!
+
+- date: "2025.02"
+  homepage: true
+  content: >-
+    🤞 Our demo: [*Remote Human-Robot Collaboration in XR*](https://sinrg.org/papers/RoboTwin_Demo_HotMobile_24.pdf) has been honored with the **Best Demo Award** at [HotMobile 2025](https://2025.acmmmsys.org/)!
+
+- date: "2024.08"
+  homepage: true
+  content: >-
+    😊 I began my exciting PhD journey at Northeastern University under the guidance of the wonderful Assistant Professor Mallesham Dasari!
